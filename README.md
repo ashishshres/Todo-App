@@ -1,5 +1,5 @@
 # Todo App📒
 
-### ⚙️[View live here](https://shrestha-ashish.github.io/Todo-App/)
+### ⚙️[View live here](https://ashishshres.github.io/Todo-App/)
 
 ![](./demo.png)
