@@ -1,24 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TODO APP</title>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Todo App</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+    <!-- CSS -->
+    <link rel="stylesheet" href="./style.css" />
+  </head>
 
-<body>
-    <div class="app">
-        <h1>Todo App📒</h1>
-        <input type="text" name="" id="" placeholder="Enter the task">
-        <button class="add">Add task</button>
-        <ul>
-            <div class="todoList"></div>
-            <div class="actions"></div>
-        </ul>
-    </div>
+  <body>
+    <main class="app">
+      <h1>TODO APP 📒</h1>
+
+      <p class="hidden invalid-todo">Please enter a valid Todo!</p>
+
+      <form method="post" class="todo-form">
+        <input type="text" class="todo-input" placeholder="Enter a Todo" />
+        <button class="btn add">Add</button>
+      </form>
+
+      <ul class="todo-list"></ul>
+    </main>
+
+    <!-- JavaScript -->
     <script src="./app.js"></script>
-</body>
-
+  </body>
 </html>
