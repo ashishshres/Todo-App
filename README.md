@@ -4,8 +4,8 @@
 
 ### `[Desktop View]`
 
-![Desktop](./desktop.png)
+![Desktop](./desktopView.png)
 
 ### `[Mobile View]`
 
-![Mobile](./mobile.png)
+![Mobile](./mobileView.png)
