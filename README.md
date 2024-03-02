@@ -2,14 +2,10 @@
 
 ### [⚙️View live here](https://ashishshres.github.io/Todo-App/)
 
-### `Version 1.0`
+### `[Desktop View]`
 
-![Version 1.0](./demo.png)
+![Desktop](./desktop.png)
 
-### `Version 2.0 [Desktop]`
+### `[Mobile View]`
 
-![Version 2.0 [Desktop]](./desktop.png)
-
-### `Version 2.0 [Mobile]`
-
-![Version 2.0 [Mobile]](./mobile.png)
+![Mobile](./mobile.png)
